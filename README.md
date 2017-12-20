@@ -25,3 +25,5 @@ RMS Error: 0.865843
 
 1. Shubham Bhatnagar (https://github.com/shubham-bhatnagar)
 2. Udhav Sharma (https://github.com/UdhavSharma)
+
+If you encounter any problems, please contact directly or post it in issues.
