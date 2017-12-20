@@ -11,8 +11,8 @@ Implementation of movie recommendation system using Collaborative Filtering Tech
 
 Instructions to run this system:
 
-1. Open recommender.c and correct all the paths. (on line 54,55,56 and 62).
-2. Open ui.c and correct all the paths. (on line 14, 40, 63, 66, 67).
+1. Open recommender.c and correct all the paths. (on line 20,55,56,57 and 63).
+2. Open ui.c and correct all the paths. (on line 15, 41, 64, 67, 68).
 3. Open command line and locate the directory where source code is stored and type: `gcc ui.c kmeans.c matrix_normalization.c pearsons.c predictions.c recommender.c sorting.c utility_matrix.c`
 4. Type `a` on command line to execute the program.
 
