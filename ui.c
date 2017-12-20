@@ -1,3 +1,4 @@
+//Contains code for command line user interface
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

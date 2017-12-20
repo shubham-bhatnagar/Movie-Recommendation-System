@@ -1,3 +1,4 @@
+//Header file for matrix_normalization.c
 #ifndef MATRIX_NORMALIZATION_H
 #define MATRIX_NORMALIZATION_H
 

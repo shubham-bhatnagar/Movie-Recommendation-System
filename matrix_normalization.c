@@ -1,3 +1,4 @@
+//This file normalizes all matrices
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
