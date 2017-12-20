@@ -23,5 +23,5 @@ RMS Error: 0.865843
 
 # Authors and Maintainers
 
-1. Shubham Bhatnagar (github.com/shubham-bhatnagar)
-2. Udhav Sharma (github.com/UdhavSharma)
+1. Shubham Bhatnagar (https://github.com/shubham-bhatnagar)
+2. Udhav Sharma (https://github.com/UdhavSharma)
