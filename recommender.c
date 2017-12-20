@@ -17,7 +17,7 @@
 int findusers(){
     char *line, *record;
     char tmp[1024];
-    FILE *fstream = fopen("C:\\Users\\Shubham\\Desktop\\Recommendation Sytem\\Machine Learning\\Dataset\\ratings_learn.csv","r");
+    FILE *fstream = fopen("\\Dataset\\ratings_learn.csv","r");
     int j=0;
     int max = 0;
     while((line=fgets(tmp,sizeof(tmp),fstream))!=NULL){
