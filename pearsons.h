@@ -1,3 +1,4 @@
+//header file for pearsons.c 
 #ifndef PEARSONS_H
 #define PEARSONS_H
 
